@@ -23,7 +23,7 @@ This repository contains Python code and resources for solving bi-objective knap
 
 4. **Main-Proposed Deep RL Methods Implementation**
    - Implementation of the proposed deep RL-based methods in testing mode.
-   - Choose and run the code for your desired method.
+   - Choose and run the code of your desired method.
    - Includes testing instances and pre-trained deep RL models.
 
 ## Citation
